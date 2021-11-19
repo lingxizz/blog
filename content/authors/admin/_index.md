@@ -1,6 +1,7 @@
 ---
 title: lxzou
 role: java开发
+avatar_filename: hupubbs_210106160405-1242822577.png
 bio: ""
 social:
   - icon: envelope
